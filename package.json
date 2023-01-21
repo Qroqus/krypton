@@ -1,0 +1,22 @@
+{
+  "name": "krypton",
+  "version": "0.0.1",
+  "description": "Landing pages fro Qroqus",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qroqus/krypton.git"
+  },
+  "keywords": [
+    "qwerty"
+  ],
+  "author": "khex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qroqus/krypton/issues"
+  },
+  "homepage": "https://github.com/Qroqus/krypton#readme"
+}
